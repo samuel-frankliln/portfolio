@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Potfolio/static/css/main.6253ea08.css",
+    "main.js": "/Potfolio/static/js/main.a9a144e4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Potfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Potfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.png": "/Potfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/Potfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Potfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Franklin_Samuel_Data_Engineer_Resume.pdf": "/Potfolio/static/media/Franklin_Samuel_Data_Engineer_Resume.876cb17d4f9a3ee5ef4f.pdf",
+    "static/media/chatify.png": "/Potfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Potfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Potfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Potfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Potfolio/index.html",
+    "main.6253ea08.css.map": "/Potfolio/static/css/main.6253ea08.css.map",
+    "main.a9a144e4.js.map": "/Potfolio/static/js/main.a9a144e4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Potfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Potfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6253ea08.css",
+    "static/js/main.a9a144e4.js"
+  ]
+}
